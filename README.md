@@ -5,8 +5,6 @@ https://tinyurl.com/N34-web
 https://tinyurl.com/n34-poster
 ---
 
-# Gesture-Based Mouse Control Program
-
 This project allows the user to control the mouse cursor and perform mouse clicks using hand gestures. The system uses the **MediaPipe** library for hand landmark detection and **PyAutoGUI** for simulating mouse actions. By tracking the user's hand position and finger movements via a webcam, the program enables interaction with the computer in an intuitive and hands-free way.
 
 ## Table of Contents
